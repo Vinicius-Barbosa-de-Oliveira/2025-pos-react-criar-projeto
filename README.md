@@ -1,4 +1,4 @@
-# Atividade - React - Criar um projeto novo
+exit# Atividade - React - Criar um projeto novo
 
 ## Informações gerais
 
